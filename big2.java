@@ -1,4 +1,4 @@
-public class BigOfTwo {
+public class big2 {
     public static void main(String[] args) {
         int a = 7;       // Change to any value
         int b = 89;      // Change to any value
