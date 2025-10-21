@@ -1,9 +1,9 @@
 public class main {
     public static void main(String[] args) {
         // Call BigOfTwo
-        BigOfTwo.main(args);
+        big2.main(args);
 
         // Call Factorial
-        Factorial.main(args);
+        fact.main(args);
     }
 }
