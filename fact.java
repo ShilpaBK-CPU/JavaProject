@@ -1,4 +1,4 @@
-public class Factorial {
+public class fact {
     public static void main(String[] args) {
         int n = 5;        // Any number you want the factorial of
         int fact = 1;
